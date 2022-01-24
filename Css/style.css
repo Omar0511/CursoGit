@@ -17,3 +17,9 @@ main{
     text-align: center;
 }
 
+footer{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    font-weight: bold;
+}
