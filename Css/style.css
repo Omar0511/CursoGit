@@ -1,0 +1,19 @@
+body{
+    background-color: palegreen;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    margin-left: 150px;
+    margin-right: 150px;
+    border: thin solid black;
+    padding: 10px;
+    color: brown;
+    text-align: center;
+}
+
